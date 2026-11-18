@@ -1,0 +1,6 @@
+{
+  "name": "Smart Attend — AI-Powered Attendance Management System",
+  "description": "An AI-powered cloud attendance platform that simplifies classroom attendance, improves accuracy, and provides real-time academic insights.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
